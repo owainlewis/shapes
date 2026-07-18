@@ -1,0 +1,6 @@
+.bsp/
+.metals/
+.sbt-launcher/
+target/
+project/target/
+project/project/
